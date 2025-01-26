@@ -1,6 +1,6 @@
-# Experimentações Python 🐍
+# Python - estudos 🐍
 
-Bem-vindo ao repositório **`experimentacoes-python`**!  
+Bem-vindo ao repositório **`python-estudos`**!  
 Aqui estão armazenados pequenos projetos, exercícios e testes em Python criados para prática, aprendizado e exploração da linguagem.
 
 ## 📌 Objetivo
